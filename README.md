@@ -5,7 +5,7 @@ https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 https://img.shields.io/badge/License-MIT-green?style=for-the-badge
 
-QRScan Pro is a professional-grade QR code scanning application built with Streamlit, featuring advanced image processing, database storage, and comprehensive analytics—all in a single file!
+Mask Qr Code Scanner is a professional-grade QR code scanning application, SUPPORTS IMAGE UPLOADS ONLY built with Streamlit, featuring advanced image processing, database storage, and comprehensive analytics—all in a single file!
 
 ✨ Features
 
