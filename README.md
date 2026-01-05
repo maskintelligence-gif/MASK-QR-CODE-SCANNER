@@ -43,8 +43,8 @@ QRScan Pro is a professional-grade QR code scanning application built with Strea
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/qrscan-pro.git
-cd qrscan-pro
+git clone https://github.com/maskintelligence-gif/qrscan-pro.git
+cd maskqrcodescanner
 
 # Install dependencies
 pip install -r requirements.txt
@@ -78,7 +78,7 @@ numpy>=1.24.0
 🗂️ Project Structure
 
 ```
-qrscan-pro/
+maskqrcodescanner/
 ├── app.py                 # Main application (single file!)
 ├── requirements.txt       # Python dependencies
 ├── README.md             # This file
